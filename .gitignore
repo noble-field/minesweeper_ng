@@ -1,0 +1,17 @@
+AS_DEBUG/
+
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+*.exe
+*.dll
+*.aps
+
+.vs/
+.vscode/
+*.cache
+*.log
+
+/Intermediate/
